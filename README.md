@@ -69,12 +69,12 @@ No links a seguir você encontra o front-end, back-end e mobile do projeto
 
 ## 👨‍🎓 Grupo
 
-| Nome                   | Ra      | Função                                                                                                       | Linkedin | Github |
-| ---------------------- | ------- | ------------------------------------------------------------------------------------------------------------ | -------- | ------ |
-| Victor Menezes         | 1692977 | Desenvolvedor Full-Stack: responsável pelo desenvolvimento da plataforma front-end e back-end                |          |        |
-| Andrea Guazzelli       | 8909872 | Desenvolvedora Full-Stack: responsável pelo desenvolvimento da plataforma front-end e back-end               |          |        |
-| Henrique Braz de Godoy | 7491931 | Designer UX/UI: responsável pela concepção visual e pela expêriencia de uso da plataforma                    |          |        |
-| Ana Carolina Moda      | 1720294 | Gestora do Projeto: responsável pela gestão das tarefas, organização do cronograma e documentação do projeto |          |        |
+| Nome                   | Ra      | Função                                                                                                       | Contato                                                              |
+| ---------------------- | ------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| Victor Menezes         | 1692977 | Desenvolvedor Full-Stack: responsável pelo desenvolvimento da plataforma front-end e back-end                | [Linkedin](https://www.linkedin.com/in/victormenezes35/)             |
+| Andrea Guazzelli       | 8909872 | Desenvolvedora Full-Stack: responsável pelo desenvolvimento da plataforma front-end e back-end               | [Linkedin](https://www.linkedin.com/in/andrea-guazzelli/)            |
+| Henrique Braz de Godoy | 7491931 | Designer UX/UI: responsável pela concepção visual e pela expêriencia de uso da plataforma                    | [Linkedin](https://www.linkedin.com/in/henrique-b-godoy/)            |
+| Ana Carolina Moda      | 1720294 | Gestora do Projeto: responsável pela gestão das tarefas, organização do cronograma e documentação do projeto | [Linkedin](https://www.linkedin.com/in/ana-carolina-moda-b79280149/) |
 
 ## :memo: Licença
 
